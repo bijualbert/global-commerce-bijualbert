@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Shopify Hydrogen + React Router 7 storefront
 
 ## Project Overview

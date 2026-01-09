@@ -1,0 +1,3 @@
+[submodule "global-commerce"]
+	path = global-commerce
+	url = https://github.com/bijualbert/global-commerce-bijualbert
